@@ -1,0 +1,76 @@
+[
+{
+    "id":1,
+    "name":"Hamburguesa Clasica",
+    "price": 10,
+    "image":"img/img9.png"
+},
+{
+    "id":2,
+    "name":"Hamburguesa Royal",
+    "price": 12,
+    "image":"img/img10.jpg"
+},
+{
+    "id":3,
+    "name":"Hamburguesa Chesse",
+    "price": 12,
+    "image":"img/img11.jpg"
+},
+{
+    "id":4,
+    "name":"Hamburguesa A Lo Pobre",
+    "price": 14,
+    "image":"img/img12.jpg"
+},
+{
+    "id":5,
+    "name":"Hamburguesa Especial",
+    "price": 17,
+    "image":"img/img13.jpg"
+},
+{
+    "id":6,
+    "name":"Hamburguesa Doble",
+    "price": 17,
+    "image":"img/img14.jpg"
+},
+{
+    "id":7,
+    "name":"Hamburguesa La Patrona",
+    "price": 20,
+    "image":"img/img15.jpg"
+},
+{
+    "id":8,
+    "name":"Desilachado de Pollo",
+    "price": 12,
+    "image":"img/img16.jpg"
+},
+{
+    "id":9,
+    "name":"Filete de Pollo",
+    "price": 12,
+    "image":"img/img17.jpg"
+},
+{
+    "id":10,
+    "name":"Kripsy",
+    "price": 12,
+    "image":"img/img18.jpg"
+},
+{
+    "id":11,
+    "name":"Choripan",
+    "price": 12,
+    "image":"img/img19.jpg"
+},
+{
+    "id":12,
+    "name":"Salchipan",
+    "price": 12,
+    "image":"img/img20.jpg"
+}
+
+
+]
